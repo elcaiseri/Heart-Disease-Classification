@@ -1,6 +1,6 @@
 <center><h3 style='color:red'>Heart Disease - Classifications</h3></center><hr>
 
-The project involves some EDA && visualizations and predict whether the presence of heart disease in the patient using several machine learning algorithms.
+**Motivation:** This project involves some EDA && visualizations and predict whether the presence of heart disease in the patient using several machine learning algorithms.
 
 **Table:**
 1. **Introduction**
@@ -15,6 +15,7 @@ The project involves some EDA && visualizations and predict whether the presence
 
 ![comparison results](comparison.png)
 
+**Note that: ACCURACY metric isn't the best metric in such situation, you can test other metrics for your certain.**
 <hr>
 
 Take a look @kaggle:
